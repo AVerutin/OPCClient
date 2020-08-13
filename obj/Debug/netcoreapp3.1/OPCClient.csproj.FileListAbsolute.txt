@@ -1,0 +1,9 @@
+E:\Projects\NET\OPCClient\bin\Debug\netcoreapp3.1\OPCClient.deps.json
+E:\Projects\NET\OPCClient\bin\Debug\netcoreapp3.1\OPCClient.dll
+E:\Projects\NET\OPCClient\bin\Debug\netcoreapp3.1\OPCClient.pdb
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.AssemblyInfoInputs.cache
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.AssemblyInfo.cs
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.csproj.CoreCompileInputs.cache
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.dll
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.pdb
+E:\Projects\NET\OPCClient\obj\Debug\netcoreapp3.1\OPCClient.csprojAssemblyReference.cache
